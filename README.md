@@ -62,6 +62,11 @@ And Ensure that the Raspberry Pi is connected to the Internet before executing t
 ```chmod -R 755 LCD-show```<br>
 ```cd LCD-show/```<br>
   
+```sudo rm -rf LCD-show```<br>
+```git clone https://github.com/lopezlucho/LCD-show.git```<br>
+```chmod -R 755 LCD-show```<br>
+```cd LCD-show/```<br>
+  
 3.)Step3, According to your LCD's type, excute the corresponding driver:
 ====================================================
 
